@@ -15,7 +15,7 @@ Development and Consulting Services
 - Intelcia IT Solutions
 - Leyton Consulting
 
-If you are interested in our services, please contact us at hassanhankir@berkeley.edu
+If you are interested in our services, please contact us at [hassanhankir@berkeley.edu](mailto:hassanhankir@berkeley.edu) 
 
 ## Join Us
 
